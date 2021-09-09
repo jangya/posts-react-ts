@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://gallant-engelbart-e9a4ec.netlify.app" target="_blank">Live Demo</a>
+</p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/569f6f9c-e93c-40d2-8e2b-6c7277c5d6c7/deploy-status)](https://app.netlify.com/sites/gallant-engelbart-e9a4ec/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
